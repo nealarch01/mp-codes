@@ -3,9 +3,17 @@
 
 
 Implemented in:
-- C++
-- Python
-- Go
+- C++ (Sequential and Concurrent)
+- Python (Sequential and Concurrent)
+- Go (Sequential and Concurrent)
 
+### C++
+Sequential: ```g++ -std=c++11 main.cpp```
+Concurrent: ```g++ -std=c++11 -lpthread main.cpp```
 
-There are two implementations of Go: sequential and concurrent version
+### Go:
+Sequential and concurrent: ```go run main.go```
+
+### Python:
+Sequential and concurrent: ```python3 main.py```
+
