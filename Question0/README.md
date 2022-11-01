@@ -12,7 +12,7 @@ Sequential: ```g++ -std=c++11 main.cpp```
 Concurrent: ```g++ -std=c++11 -lpthread main.cpp```
 
 ### Go:
-Sequential and concurrent: ```go run main.go```
+Sequential and concurrent: ```go run main.go``` or ```go build main.go ; ./main```
 
 ### Python:
 Sequential and concurrent: ```python3 main.py```
