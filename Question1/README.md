@@ -3,8 +3,19 @@
 
 Implemented in:
 - Go
+- Rust 
+- Swift
 
 
 ### Go:
 ```go run main.go```
+
+
+### Rust:
+```rustc main.rs```
+
+
+### Swift:
+```swiftc main.swift```
+
 
